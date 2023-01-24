@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_mkdocs_tutorial"
+  site-url: "https://harishmohanraj.github.io/nbdev_mkdocs_tutorial"
+  description: "Hellow world with nbdev_mkdocs"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/nbdev_mkdocs_tutorial"
