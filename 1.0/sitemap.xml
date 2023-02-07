@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://harishmohanraj.github.io/nbdev_mkdocs_tutorial/1.0/</loc>
+         <lastmod>2023-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/nbdev_mkdocs_tutorial/1.0/00_core/</loc>
+         <lastmod>2023-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>None</loc>
+         <lastmod>2023-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/nbdev_mkdocs_tutorial/1.0/changelog_not_found/</loc>
+         <lastmod>2023-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/nbdev_mkdocs_tutorial/1.0/cli_commands_not_found/</loc>
+         <lastmod>2023-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/nbdev_mkdocs_tutorial/1.0/nbdev_mkdocs_tutorial_api_docs/nbdev_mkdocs_tutorial/core/</loc>
+         <lastmod>2023-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
