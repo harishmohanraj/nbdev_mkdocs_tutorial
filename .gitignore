@@ -154,3 +154,7 @@ checklink/cookies.txt
 # nbdev_mkdocs
 mkdocs/docs/
 mkdocs/site/
+
+# nbdev_mkdocs
+mkdocs/docs/
+mkdocs/site/
